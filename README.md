@@ -1,4 +1,4 @@
-# 🧩 LeetCode Solutions
+# 🧩 LeetCode Questions Solutions
 
 My solutions to coding problems from [LeetCode](https://leetcode.com) — the world's leading platform for preparing technical coding interviews and mastering data structures & algorithms.
 
